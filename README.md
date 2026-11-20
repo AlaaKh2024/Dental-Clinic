@@ -67,6 +67,7 @@ npm run dev	Start the development server
 npm run build	Build the application for production
 npm run preview	Preview the production build
 npm run lint	Run ESLint to check code quality
+
 📁 Project Structure
 text
 Dental-Clinic/
@@ -91,6 +92,7 @@ Creating responsive and accessible user interfaces.
 Implementing smooth animations and interactive experiences.
 Using modern development tools and workflows.
 Delivering a clean and professional website for a dental clinic.
+
 🔮 Future Improvements
 
 Potential enhancements for future versions include:
@@ -101,16 +103,11 @@ Online appointment tracking and management.
 An administrative dashboard.
 Database integration for storing appointment information.
 Improved accessibility and automated testing.
+
 👨‍💻 Author
 
 Alaa Kh
 
 GitHub: @AlaaKh2024
 Project Repository: Dental-Clinic
-📄 License
 
-No license has been specified for this repository yet.
-
-<p align="center">
-Made with ❤️ using React and modern web technologies.
-</p>
